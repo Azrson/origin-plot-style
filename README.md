@@ -18,7 +18,7 @@
 将本仓库克隆到 Codex 的 skills 目录：
 
 ```powershell
-git clone https://github.com/YOUR-NAME/origin-plot-style.git "$env:USERPROFILE\.codex\skills\origin-plot-style"
+git clone https://github.com/Azrson/origin-plot-style.git "$env:USERPROFILE\.codex\skills\origin-plot-style"
 ```
 
 重新打开 Codex，或让 Codex 重新加载 skills。实际绘图自动化还需要 Windows、OriginPro，以及能够连接 Origin 的 `originpro` Python 包：
