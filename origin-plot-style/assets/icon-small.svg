@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Origin Plot Style">
+  <rect width="128" height="128" rx="24" fill="#eef6fb"/>
+  <rect x="23" y="19" width="86" height="86" rx="3" fill="#fff" stroke="#1d2733" stroke-width="6"/>
+  <path d="M30 87 C46 83 48 58 63 64 S82 84 100 39" fill="none" stroke="#2e6f9e" stroke-width="7" stroke-linecap="round"/>
+</svg>

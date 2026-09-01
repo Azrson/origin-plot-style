@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Origin Plot Style</title>
+  <desc id="desc">A four-sided graph frame with a publication-style curve</desc>
+  <rect width="512" height="512" rx="96" fill="#eef6fb"/>
+  <rect x="92" y="76" width="344" height="344" rx="10" fill="#ffffff" stroke="#1d2733" stroke-width="18"/>
+  <path d="M118 349 C174 335 184 244 241 261 S317 342 394 151" fill="none" stroke="#2e6f9e" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="241" cy="261" r="13" fill="#d84a4a"/>
+  <path d="M92 420 H436 M92 76 V420" stroke="#1d2733" stroke-width="18" stroke-linecap="round"/>
+</svg>

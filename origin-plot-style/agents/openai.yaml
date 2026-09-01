@@ -1,0 +1,9 @@
+interface:
+  display_name: "Origin Plot Style"
+  short_description: "Publication-ready OriginPro graph styling"
+  icon_small: "./assets/icon-small.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#2E6F9E"
+  default_prompt: "Use $origin-plot-style to create or fix an OriginPro graph with publication-ready axes, curves, legends, and verified output."
+policy:
+  allow_implicit_invocation: true
