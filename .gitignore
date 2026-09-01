@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.opj
+*.opju
+*.ogg
+*.oggu
+*.otp
+*.otpu
+*.bak
+*.tmp
